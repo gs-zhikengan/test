@@ -8,8 +8,10 @@ function App() {
 
   return (
     <>     
-    <p>Hello World</p>
-    </>
+    <div>
+      <h1>Vite + React + TypeScript</h1>
+    </div>
+</>
   )
 }
 
