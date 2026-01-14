@@ -12,6 +12,7 @@ function App() {
       <h1>Vite + React + TypeScript</h1>
     </div>
 </>
+
   )
 }
 
